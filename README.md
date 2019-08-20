@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-hi therer my name is jason and i am an international student at mankato state
+hi there my name is jason and i am an international student at mankato state
